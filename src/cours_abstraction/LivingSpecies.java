@@ -1,3 +1,5 @@
+package cours_abstraction;
+
 abstract public class LivingSpecies
 {
     protected String name;

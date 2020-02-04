@@ -1,7 +1,9 @@
+package cours_abstraction;
+
 public class Tigre extends LivingSpecies
 {
     public Tigre(){
-        name = "Tigre";
+        name = "abstraction.Tigre";
     }
 
     public void eat(){
